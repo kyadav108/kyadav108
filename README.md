@@ -10,12 +10,32 @@
 
 ---
 
-🛠️ **Skills & Tools**
-- **Languages**: Python, SQL
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
-- **Visualization Tools**: Tableau
-- **Statistical Methods**: Hypothesis Testing, A/B Testing
-- **Soft Skills**: Problem-solving, critical thinking, storytelling with data
+## 🛠️ Skills & Tools
+
+**Languages:**
+Python, SQL
+
+**Libraries & Frameworks:**
+Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
+**Machine Learning:**
+Supervised Learning (Classification), Random Forest, Logistic Regression, Model Evaluation (ROC-AUC, Precision, Recall), Hyperparameter Tuning
+
+**Data Processing & Feature Engineering:**
+Data Cleaning, Missing Value Treatment, Outlier Handling (IQR), Feature Engineering, Encoding Techniques (One-Hot, Label, Target Encoding)
+
+**Imbalanced Data Handling:**
+SMOTE (Synthetic Minority Oversampling Technique)
+
+**Visualization Tools:**
+Tableau, Matplotlib, Seaborn
+
+**Statistical Methods:**
+Hypothesis Testing, A/B Testing
+
+**Other Skills:**
+Exploratory Data Analysis (EDA), Business Insights Generation, Problem-Solving, Critical Thinking, Storytelling with Data
+
 
 ---
 
@@ -30,11 +50,14 @@
 📁 **Projects**
 Here are a few highlighted projects from my GitHub:
 
-- 📌 [Impact-of-Weather-and-Seasonal-Factors-on-Yulu-Bike-Rides](https://github.com/kyadav108/Impact-of-Weather-and-Seasonal-Factors-on-Yulu-Bike-Rides) – Python, pandas, Hypothesis testing
-- 📌 [ShowTrend-Analysis](https://github.com/kyadav108/ShowTrend-Analysis) – Exploratory analysis using Python
+* 📌 [Impact-of-Weather-and-Seasonal-Factors-on-Yulu-Bike-Rides](https://github.com/kyadav108/Impact-of-Weather-and-Seasonal-Factors-on-Yulu-Bike-Rides) – Python, pandas, Hypothesis testing
 
+* 📌 [ShowTrend-Analysis](https://github.com/kyadav108/ShowTrend-Analysis) – Exploratory analysis using Python
 
----
+* 📌 [Loan-Default-Risk-Prediction-using-Logistic-Regression](https://github.com/kyadav108/Loan-Default-Risk-Prediction-using-Logistic-Regression) – Machine learning project using Logistic Regression and SMOTE to predict loan defaults and identify high-risk borrowers
+
+* 📌 [End-to-End-Driver-Churn-Prediction-Ola-Case-Study](https://github.com/kyadav108/End-to-End-Driver-Churn-Prediction-Ola-Case-Study) – End-to-end ML pipeline using Random Forest to analyze driver behavior and predict churn with actionable business insights
+
 
 📫 **Let’s Connect**
 - 💼 [LinkedIn](https://www.linkedin.com/in/khushi-yadav-95919b117/)
