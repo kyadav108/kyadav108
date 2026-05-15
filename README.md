@@ -63,7 +63,7 @@ Here are a few highlighted projects from my GitHub:
 
 * 📌 [Impact-of-Weather-and-Seasonal-Factors-on-Yulu-Bike-Rides](https://github.com/kyadav108/Impact-of-Weather-and-Seasonal-Factors-on-Yulu-Bike-Rides) – Python, pandas, Hypothesis testing
 
-* 📌 [ShowTrend-Analysis](https://github.com/kyadav108/ShowTrend-Analysis) – Exploratory data analysis using Python to uncover trends and patterns
+* 📌 [Job-Portal-Analysis](https://github.com/kyadav108/Job-Portal-Analysis-Bambhari-Internship-Project) – Analyzed 160K+ job postings using web scraping, data preprocessing, feature engineering, and Tableau dashboards to uncover hiring trends, salary patterns, and in-demand skills across industries.
 
 * 📌 [Loan-Default-Risk-Prediction-using-Logistic-Regression](https://github.com/kyadav108/Loan-Default-Risk-Prediction-using-Logistic-Regression) – Built a Logistic Regression model with SMOTE to predict loan defaults, achieving ~99% recall and enabling better risk identification
 
