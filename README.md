@@ -68,7 +68,7 @@ Here are a few highlighted projects from my GitHub:
 * 📌 [Loan-Default-Risk-Prediction-using-Logistic-Regression](https://github.com/kyadav108/Loan-Default-Risk-Prediction-using-Logistic-Regression) – Built a Logistic Regression model with SMOTE to predict loan defaults, achieving ~99% recall and enabling better risk identification
 
 * 📌 [End-to-End-Driver-Churn-Prediction-Ola-Case-Study](https://github.com/kyadav108/End-to-End-Driver-Churn-Prediction-Ola-Case-Study) – Developed an end-to-end ML pipeline using Random Forest to predict driver churn (~95% accuracy, 0.91 ROC-AUC) and generate actionable retention insights
-
+  
 ---
 
 ## 📚 Currently Learning
